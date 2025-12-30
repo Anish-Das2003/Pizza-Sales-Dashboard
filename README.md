@@ -76,28 +76,34 @@ Peak order time analysis
 
 📈 Power BI Dashboard Features KPI cards:
 
-Total Revenue
+Total revenue
 
-Total Orders
+Total no of orders
 
-Average Order Value
+Average order value
 
-Bar charts for:
+Total pizza sold
 
-Top-selling pizzas
+Avg pizza per sold
 
-Category-wise sales
+Column charts for:
 
-Line charts for:
+Orders by day name
 
-Monthly revenue trends
+Orders by time
+
+Pie charts for:
+
+Category wise pizza revenue
+
+Total pizza sold by size
 
 Slicers for:
 
 Pizza category
 
-Pizza size
+Multi-row card:
 
-Date
+Bottom and top 5 selling pizzas
 
 ![image alt](https://github.com/Anish-Das2003/Pizza-Sales-Dashboard/blob/6920e8ff5ba95e5d149ffb4d40fbdd0485ac1e26/Pizza%20Sales%20Dashboard.png)
