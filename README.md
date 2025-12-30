@@ -32,7 +32,8 @@ The project answers key business questions such as:
 
 📊 Dataset Description
 
-Source - 
+Source - https://github.com/Anish-Das2003/Pizza-Sales-Dashboard/blob/e91b750cc253f662e6f8cbdfc9d438b8e5200a5b/order_details.csv,
+
 🛠️ Tools & Technologies
 
 SQL – Data cleaning, aggregation, and analysis
