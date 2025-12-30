@@ -32,24 +32,7 @@ The project answers key business questions such as:
 
 📊 Dataset Description
 
-The dataset contains pizza order transaction data with the following columns:
-
-order_id – Unique order identifier
-
-order_date – Date of order
-
-order_time – Time of order
-
-pizza_name – Name of the pizza
-
-pizza_category – Pizza category (Classic, Veggie, Chicken, Supreme)
-
-pizza_size – Size (S, M, L, XL, XXL)
-
-quantity – Number of pizzas sold
-
-total_price – Total price of the order
-
+Source - 
 🛠️ Tools & Technologies
 
 SQL – Data cleaning, aggregation, and analysis
