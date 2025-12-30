@@ -32,7 +32,23 @@ The project answers key business questions such as:
 
 📊 Dataset Description
 
-Source - https://github.com/Anish-Das2003/Pizza-Sales-Dashboard/blob/e91b750cc253f662e6f8cbdfc9d438b8e5200a5b/order_details.csv,
+The dataset contains pizza order transaction data with the following columns:
+
+order_id – Unique order identifier
+
+order_date – Date of order
+
+order_time – Time of order
+
+pizza_name – Name of the pizza
+
+pizza_category – Pizza category (Classic, Veggie, Chicken, Supreme)
+
+pizza_size – Size (S, M, L, XL, XXL)
+
+quantity – Number of pizzas sold
+
+total_price – Total price of the order
 
 🛠️ Tools & Technologies
 
