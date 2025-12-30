@@ -99,3 +99,5 @@ Pizza category
 Pizza size
 
 Date
+
+![image alt](https://github.com/Anish-Das2003/Pizza-Sales-Dashboard/blob/6920e8ff5ba95e5d149ffb4d40fbdd0485ac1e26/Pizza%20Sales%20Dashboard.png)
